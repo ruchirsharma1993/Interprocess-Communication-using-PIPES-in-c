@@ -1,3 +1,11 @@
+/*
+=======================================================
+INTERPROCESS COMMUNICATION USING PIPES IN C
+Author: RUCHIR SHARMA
+Email ID: ruchir.sharma@students.iiit.ac.in
+=======================================================
+*/
+
 #include <sys/wait.h>
 #include <stdio.h>
 #include <stdlib.h>
